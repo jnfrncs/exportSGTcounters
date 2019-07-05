@@ -14,6 +14,9 @@ Example of Kibana report with Denied/Permit SGTs
 
 Deployment :
 1/ copy the file on a Cisco Cat9K swictch (or any IOS-XE platform supporting guestshell and trustsec)
+
 2/ enable guestshell, add the elasticsearch python library
+
 3/ Schedule the script (by using EEM for example)
+
 4/ Configure Kibana to visualize the data
