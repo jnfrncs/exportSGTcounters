@@ -20,3 +20,5 @@ Deployment :
 3/ Schedule the script (by using EEM for example)
 
 4/ Configure Kibana to visualize the data
+
+More detailed description here : https://gblogs.cisco.com/ch-tech/trustsec-policy-monitoring-on-a-cat9k/
